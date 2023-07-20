@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Android Devlopment**
 
-- 🏀 I Play ! [Basketball](Basketball)
+- 🏀 I Play ! [Basketball]
 
 - 📫 How to reach me **sahilsinha894@gmail.com**
 
