@@ -55,7 +55,7 @@ I am an Aspiring Android developer,  currently pursuing B-tech in CSE (2nd Year)
 - 🏏 Cricket 
 - 🏸 Badminton
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=xoptimizer&show_icons=true&locale=en" alt="xoptimizer" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=xoptimizer&" alt="xoptimizer" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=xoptimizer&show_icons=true&locale=en" alt="xoptimizer" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=xoptimizer&" alt="xoptimizer" /></p>
 
 
   
