@@ -23,7 +23,7 @@ I am an Aspiring Android developer,  currently pursuing B-tech in CSE (2nd Year)
 [![InterviewBit](https://img.shields.io/badge/-InterviewBit-blue?style=flat&amp;labelColor=white&amp;logo=interviewbit&amp;logoColor=blue)](https://www.interviewbit.com)
 [![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-orange?style=flat&amp;labelColor=white&amp;logo=codingninjas&amp;logoColor=orange)](https://www.codingninjas.com)
 
-- <details>
+ <details>
    <summary>📃 Resume</summary>
 
  ## Education
