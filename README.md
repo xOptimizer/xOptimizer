@@ -1,12 +1,20 @@
+![MasterHead](https://github.com/xOptimizer/xOptimizer/assets/111557020/c9c9e068-76bd-481c-a101-69043cc260bd)
 
-![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
-<h1 align="center">Hi 👋, I'm SAHIL SINHA</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h1><img src="https://github.com/xOptimizer/xOptimizer/assets/111557020/5c99b5da-b1cc-4116-92c1-2005212b0baa" width="30" height="30" width="30" height="30">
+       About Me:</h1>
+      <p>
+      
+<img src="https://github.com/xOptimizer/xOptimizer/assets/111557020/0e6f2634-d2be-45ae-b156-bb0b8711220c" width="25" height="25"> I’m currently working on Coding Skills.<br>
 
-I am an Aspiring Android developer,  currently pursuing B-tech in CSE (2nd Year). I am always enthusiastic about new creative projects and learn by developing projects. Always open to challenges that will keep me learning. Looking forward to working on exciting upcoming projects with innovative people. I am also a video editor and for editing I have used Filmora and Preimer Pro. I enjoy making Intros and some animation and for it I use After Effects. Graphic Designing has always been my way to utilize the free time . I am a team worker always ready to collaborate and work. 
 
-# 💫 About Me:
-🔭 I’m currently working on : Coding Skills<br>👯 I’m looking to collaborate on : Projects<br>🌱 I’m currently learning : Android Devlopment | UI/UX<br>💬 Ask me about : Anything <br>⚡ Fun fact : I am "Short"
+<img src="https://github.com/HardShell1307/HardShell1307/assets/102977103/f6b8ea0e-3de6-4d67-a8b3-774a5fa1e7d4" width="25" height="25"> I’m looking to collaborate on Projects<br>
+
+<img src="https://github.com/HardShell1307/HardShell1307/assets/102977103/50c6e92d-9367-4d79-b8e8-fda3177d1056" width="25" height="25"> I’m currently learning Android Devlopment and Machine Learning<br>
+        
+<img src="https://github.com/HardShell1307/HardShell1307/assets/102977103/1bdce7d1-36c5-413c-9323-cc0eaae559ee" width="25" height="25"> Ask me about Android projects, solving logical problems, and coding.<br>
+  
+<img src="https://github.com/HardShell1307/HardShell1307/assets/102977103/4133b68f-699c-492e-976b-f5ef4d882878" width="25" height="25"> Fun fact: I AM Short
+      </p>
 
 
 ## 🌐 Socials:
@@ -26,7 +34,8 @@ I am an Aspiring Android developer,  currently pursuing B-tech in CSE (2nd Year)
  <details>
    <summary>📃 Resume</summary>
 
- ## Education
+ ## <h1><img src="https://github.com/xOptimizer/xOptimizer/assets/111557020/06621987-5edc-46d5-8b43-ff7f3ed7ce64" width="30" height="30">  Education:</h1>
+
  - 📍 **Uttarakhand Technical University**-----------------------**< 2021-present >**\
  📖**Bachelor's of technology-< Computer Science & Engineering >**
  
@@ -36,14 +45,26 @@ I am an Aspiring Android developer,  currently pursuing B-tech in CSE (2nd Year)
  - 📍 **Dayanand Public School, Jamshedpur**------------------**< 2014-2019 >**\
    📖**Secondary Schooling**
  
-# 🏀 Sports Stats:
+# <h1><img src="https://github.com/xOptimizer/xOptimizer/assets/111557020/f70c9c73-90d5-48f3-9752-3331ed3bfded" width="30" height="30">  Sports Stats:</h1>
  I have Played Cricket till U-16 level for Jamshedpur. Then I Shifted to Volleyball and Basketball Have won two ASIC regionals in Volleyball
- and Won many basketaball Tournaments for my school Team and I am Still playing Basketball for my college Team.
+ and Won many basketaball Tournaments for my school Team and I am Still playing Basketball for my college Team. 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=xOptimizer&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=xOptimizer&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xOptimizer&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</details>
+
+# <h1><img src="https://github.com/xOptimizer/xOptimizer/assets/111557020/6b0362b6-3292-4f3b-a538-687b763fdadf" width="30" height="30">  GitHub Stats:</h1>
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 33.33%; text-align: center; padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=xOptimizer&theme=monokai&hide_border=false&include_all_commits=false&count_private=false">
+    </td>
+    <td style="width: 33.33%; text-align: center; padding: 10px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=xOptimizer&theme=monokai&hide_border=false">
+    </td>
+    <td style="width: 33.33%; text-align: center; padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xOptimizer&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+    </td>
+  </tr>
+</table>
+
+
